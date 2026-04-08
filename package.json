@@ -1,0 +1,23 @@
+{
+  "name": "ngay4_nnptud",
+  "version": "1.0.0",
+  "description": "Hoàng Tiến Hưng 2280601290",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HungHoang252004/ngay4_NNPTUD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HungHoang252004/ngay4_NNPTUD/issues"
+  },
+  "homepage": "https://github.com/HungHoang252004/ngay4_NNPTUD#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
